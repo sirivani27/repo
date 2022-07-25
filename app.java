@@ -7,5 +7,9 @@ c class Exercise2 {
 			    sum += i;
 		System.out.println("The sum is " + sum);
 	}
+System.out.println("The sum is " + sum);
 }
+# developer 2 modified this code
+System.out.println("The sum is " + sum);
+System.out.println("The sum is " + sum);
 
